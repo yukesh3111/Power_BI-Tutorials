@@ -18,7 +18,7 @@
 
 The repository is organized by topic, making it easy to follow along with the video series. Each topic has a dedicated folder containing:
 
-* **Dataset:** The raw data used in the tutorial.
+* **Dataset:** The raw data used in the tutorial (Dataset https://github.com/AlexTheAnalyst/Power-BI/tree/main).
 * **Power BI File (.pbix):** The completed Power BI file for that specific topic.
 
 **Prerequisites:**
