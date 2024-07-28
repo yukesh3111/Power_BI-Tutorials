@@ -1,6 +1,6 @@
 # Power BI Tutorial: Learn from Alex the Analyst (YouTube)
 
-**This repository serves as your learning companion as you follow Alex the Analyst's Power BI tutorial on YouTube!**  (Link to YouTube channel: [Alex The Analyst - YouTube](https://www.youtube.com/channel/UCtmYvLzeaUv-HW_2Lj8ULPw))
+**This repository serves as a learning companion as I follow Alex the Analyst's Power BI tutorial on YouTube!**  (Link to YouTube channel: [Alex The Analyst - YouTube](https://www.youtube.com/channel/UCtmYvLzeaUv-HW_2Lj8ULPw))
 
 **Content Covered:**
 
